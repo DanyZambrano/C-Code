@@ -2,7 +2,7 @@
 
 [<img src="Assets/c_logo.png" width="120"/>](Assets/c_logo.png) [<img src="Assets/cpp_logo.png" width="120"/>](Assets/cpp_logo.png) 
 
-Welcome to C/C++ repo code, here you will be able to find Ticks & Tips regarding those amazing languages.
+> Welcome to C/C++ repo code, here you will be able to find Ticks & Tips regarding those amazing languages.
 
 </br>
 
@@ -31,3 +31,16 @@ Welcome to C/C++ repo code, here you will be able to find Ticks & Tips regarding
 ## Resources
 * [ISO CPP](https://isocpp.org)
 * [CPlusPlus](http://www.cplusplus.org)
+
+</br></br>
+
+## Common Knowledge
+* tasks.json (build instructions)
+* launch.json (debugger settings)
+
+</br>
+
+## Commands
+* Run Cpp file on terminal:
+
+   **g++ [filename.cpp]**

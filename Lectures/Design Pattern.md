@@ -1,6 +1,6 @@
 
 ## Design Pattnern
-Design Patterns are common architectural approaches. It was popularized with smalltalk & C++.
+> Design Patterns are common architectural approaches. It was popularized with smalltalk & C++.
 
 </br>
 
