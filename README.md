@@ -1,28 +1,33 @@
 # C/C++ Code 
 
+[<img src="Assets/c_logo.png" width="120"/>](Assets/c_logo.png) [<img src="Assets/cpp_logo.png" width="120"/>](Assets/cpp_logo.png) 
+
 Welcome to C/C++ repo code, here you will be able to find Ticks & Tips regarding those amazing languages.
 
-<br>
+</br>
 
-![img](Assets/cpp_logo.png)
-![img](Assets/cpp_logo.png =100x20)
-
-### IDE
+## IDE
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 * [Xcode](https://cppinstitute.org/certification)
 
-### C Language
+</br>
+
+## C Language
 *
 
-### C++ Language
+</br>
+
+## C++ Language
 * 
 
+</br>
 
-### Certification
+## Certification
 * [CPP Instute](https://cppinstitute.org/certification)
 
+</br>
 
-### Resources
+## Resources
 * [ISO CPP](https://isocpp.org)
 * [CPlusPlus](http://www.cplusplus.org)
