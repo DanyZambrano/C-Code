@@ -4,7 +4,8 @@ Welcome to C/C++ repo code, here you will be able to find Ticks & Tips regarding
 
 <br>
 
-![img](/Images/cpp_logo.png)
+![img](Assets/cpp_logo.png)
+![](Assets/cpp_logo.png =100x20)
 
 ### IDE
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
