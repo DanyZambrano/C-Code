@@ -4,6 +4,8 @@
 
 > Any developer could start with C++17 to up!.
 
+> While C++ evolution is tied to the ISO committee process, forking C++ is an option.
+
 </br>
 
 ### Version
