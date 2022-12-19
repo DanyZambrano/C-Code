@@ -18,7 +18,6 @@
 *.dSYM
 *.dll
 .DS_Store
-**/.DS_Store
 
 # Fortran module files
 *.mod
@@ -35,4 +34,3 @@
 *.exec
 *.out
 *.app
-*.
